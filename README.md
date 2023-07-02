@@ -1,3 +1,3 @@
 # myportfolio website.
 
-<a href="https://nitis707.github.io/myportfolio/"></a>
+https://nitis707.github.io/myportfolio/
